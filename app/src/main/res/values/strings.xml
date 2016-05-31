@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Plawivoca</string>
+    <string name="db_url">https://dl.dropboxusercontent.com/s/wqoyu7ys6sjgnb1/vocabdb.sqlite?dl=0</string>
+    <string name="dict_url">http://www.oxforddictionaries.com/definition/american_english/</string>
+    <string name="db_file_name">vocabdb.sqlite</string>
+    <string name="btn_play">Start</string>
+    <string name="btn_highscores">High scores</string>
+    <string name="btn_wordlist">My word list</string>
+    <string name="btn_addlist">Add to my list</string>
+    <string name="btn_removelist">Remove from my list</string>
+    <string name="btn_listen">Listen</string>
+    <string name="btn_submit">Enter</string>
+    <string name="btn_skip">Skip</string>
+    <string name="btn_viewres">View answer</string>
+    <string name="str_incorrect">Incorrect! Please try again.</string>
+    <string name="str_skipped">Skipped</string>
+    <string name="str_hint">Type your word here...</string>
+    <string name="str_note">(tap the word to see detail)</string>
+</resources>
